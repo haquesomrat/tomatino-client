@@ -1,0 +1,9 @@
+.active {
+  color: #ef4f4f;
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
+a:hover,
+.logout:hover {
+  color: #ef4f4f;
+}
